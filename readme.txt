@@ -8,3 +8,5 @@
 
 
         Note that 'jssor.compress.exe' runs on windows system with .NET 2.0 installed.
+
+        Nonu
